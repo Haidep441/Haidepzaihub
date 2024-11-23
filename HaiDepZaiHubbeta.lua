@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-Title = "ổi hub| by haidepzai ",
-Text = "Successfully",
+Title = "HaiDepZai hub| by haidepzai ",
+Text = "loading",
 Duration = 5,
 })
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -14181,7 +14181,7 @@ spawn(function()
     end)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 game.StarterGui:SetCore("SendNotification", {
-Title = "ổi hub| by haidepzai ",
+Title = "HaiDepZai hub| by haidepzai ",
 Text = "Successfully",
 Duration = 5,
 })
